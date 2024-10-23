@@ -1,0 +1,9 @@
+#loading-spinner {
+    display: none;
+}
+
+.active{
+    background-color: rgb(219 234 254);
+    border-color: #0E7A81 !important;
+    border-radius: 30px !important;
+}
